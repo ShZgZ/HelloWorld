@@ -1,0 +1,3 @@
+#これでコメント
+#とりあえずJavaのclassファイルをignore
+*.class
